@@ -1,8 +1,6 @@
 # ![Laravel Exam](https://laravel.com/img/logotype.min.svg)
 
-> ### Laravel codebase containing a brand new template that adheres to the current repo.
-
-This repo is functionality complete — PRs and issues welcome!
+> ### Laravel version 10.10 codebase containing a brand new template that adheres to the current repo.
 
 ----------
 
