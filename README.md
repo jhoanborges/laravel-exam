@@ -39,3 +39,4 @@ created. This can be completed on the same function.
 8. Print the results creating and using a route that points to the ProductsController to show
 all users that has products related or linked.
 9. Push the changes to the candidate’s branch
+
